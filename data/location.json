@@ -1,0 +1,13 @@
+{
+  "name": "Salalah Eye Hafa Beach",
+  "latitude": 17.0003048,
+  "longitude": 54.1051167,
+  "source": "https://maps.app.goo.gl/ajG7RAoH4XF3QEgH7",
+  "sourceChecked": "2026-09-26",
+  "precision": "Google Maps POI, approximate cinematic target; not surveyed coordinates",
+  "omanCameraTarget": {
+    "latitude": 21.0,
+    "longitude": 57.0,
+    "precision": "proposed framing coordinate, not a location measurement"
+  }
+}

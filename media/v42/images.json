@@ -1,0 +1,645 @@
+{
+  "version": "v42",
+  "format": "webp",
+  "images": {
+    "family-sea-view": {
+      "width": 1672,
+      "height": 941,
+      "src": "/media/v42/family-sea-view-1280.webp",
+      "variants": [
+        {
+          "src": "/media/v42/family-sea-view-640.webp",
+          "width": 640,
+          "height": 360,
+          "bytes": 46464,
+          "sha256": "df6ff13f983de795723cbf054c625705a504033cdeae012ced5016d155bf4508",
+          "rgbPsnrSameSize": 36.111
+        },
+        {
+          "src": "/media/v42/family-sea-view-1280.webp",
+          "width": 1280,
+          "height": 720,
+          "bytes": 130564,
+          "sha256": "84b3db608a2fafce9b4519cdfb6b82e986ea1e119db5b54b37ccfae91d7b86c4",
+          "rgbPsnrSameSize": 38.511
+        },
+        {
+          "src": "/media/v42/family-sea-view-1672.webp",
+          "width": 1672,
+          "height": 941,
+          "bytes": 181938,
+          "sha256": "421754f324b38abbeeb6f2e99c74583dfb0541b2d685504fcbfff34ce4b2285c",
+          "rgbPsnrSameSize": 39.495
+        }
+      ],
+      "preview": {
+        "src": "/media/v42/family-sea-view-160.webp",
+        "width": 160,
+        "height": 90,
+        "bytes": 2350,
+        "sha256": "88678166b76acf875c9f6f8d2b604f555cc1bb7c1bb17521c47172c638c38696",
+        "rgbPsnrSameSize": 28.526
+      }
+    },
+    "khareef-festival": {
+      "width": 1672,
+      "height": 941,
+      "src": "/media/v42/khareef-festival-1280.webp",
+      "variants": [
+        {
+          "src": "/media/v42/khareef-festival-640.webp",
+          "width": 640,
+          "height": 360,
+          "bytes": 67128,
+          "sha256": "4ae59165e9e91898afe5bf530b02cfab15f24d8d22c7cedc471d85a8777b0880",
+          "rgbPsnrSameSize": 32.72
+        },
+        {
+          "src": "/media/v42/khareef-festival-1280.webp",
+          "width": 1280,
+          "height": 720,
+          "bytes": 198628,
+          "sha256": "003609f49596bcd701c3fe45d2c435511124c6b11ccf6d6d65814a80119990f6",
+          "rgbPsnrSameSize": 34.868
+        },
+        {
+          "src": "/media/v42/khareef-festival-1672.webp",
+          "width": 1672,
+          "height": 941,
+          "bytes": 283728,
+          "sha256": "a805e6b6427061caa1160bcd1a69c7063a9e0e4fde2d5ad0d86c4dc65a5fb14e",
+          "rgbPsnrSameSize": 36.186
+        }
+      ],
+      "preview": {
+        "src": "/media/v42/khareef-festival-160.webp",
+        "width": 160,
+        "height": 90,
+        "bytes": 2656,
+        "sha256": "153d35b483f3b9744ee0bf485c8fed6b6e60478de9ff365d26319f2b6ed955d5",
+        "rgbPsnrSameSize": 26.605
+      }
+    },
+    "beach-amenities": {
+      "width": 1672,
+      "height": 941,
+      "src": "/media/v42/beach-amenities-1280.webp",
+      "variants": [
+        {
+          "src": "/media/v42/beach-amenities-640.webp",
+          "width": 640,
+          "height": 360,
+          "bytes": 82210,
+          "sha256": "051a86f076c6958fe68f4ae75ee8778da00e6969feb2b2f20c774320887a8c7f",
+          "rgbPsnrSameSize": 33.002
+        },
+        {
+          "src": "/media/v42/beach-amenities-1280.webp",
+          "width": 1280,
+          "height": 720,
+          "bytes": 272650,
+          "sha256": "40fe09f038632a790f7788e4dfa5d30f78b4ab89400b4e75dafa936cdada613e",
+          "rgbPsnrSameSize": 34.736
+        },
+        {
+          "src": "/media/v42/beach-amenities-1672.webp",
+          "width": 1672,
+          "height": 941,
+          "bytes": 407178,
+          "sha256": "cc23c497d88a87ae5d0eb9ea5b67a1a076e6f91efabf583502b6d01dee4979de",
+          "rgbPsnrSameSize": 35.887
+        }
+      ],
+      "preview": {
+        "src": "/media/v42/beach-amenities-160.webp",
+        "width": 160,
+        "height": 90,
+        "bytes": 2992,
+        "sha256": "3352339e410c46a7bd087717e6ea9d3ebf91529606319493250471d34f96ac0e",
+        "rgbPsnrSameSize": 27.638
+      }
+    },
+    "hospitality-clusters": {
+      "width": 1672,
+      "height": 941,
+      "src": "/media/v42/hospitality-clusters-1280.webp",
+      "variants": [
+        {
+          "src": "/media/v42/hospitality-clusters-640.webp",
+          "width": 640,
+          "height": 360,
+          "bytes": 104106,
+          "sha256": "f0380be29fd235adb700e821b5bf46b7b0a8ec0246f6d354b7b60cff52840750",
+          "rgbPsnrSameSize": 32.222
+        },
+        {
+          "src": "/media/v42/hospitality-clusters-1280.webp",
+          "width": 1280,
+          "height": 720,
+          "bytes": 348756,
+          "sha256": "826c56da9b0b8776a939ae0609afe4d84d079f3cc90a6a826fe58e5a335c7022",
+          "rgbPsnrSameSize": 34.022
+        },
+        {
+          "src": "/media/v42/hospitality-clusters-1672.webp",
+          "width": 1672,
+          "height": 941,
+          "bytes": 521838,
+          "sha256": "0c699c8316b1294965a52ffca85f84735828dadc9745691baa4b6f427ae60c1a",
+          "rgbPsnrSameSize": 35.001
+        }
+      ],
+      "preview": {
+        "src": "/media/v42/hospitality-clusters-160.webp",
+        "width": 160,
+        "height": 90,
+        "bytes": 3902,
+        "sha256": "d249467e361d141eba4d610ab8a6fb8e06b9085c31d414b94b78414153da7bdc",
+        "rgbPsnrSameSize": 26.366
+      }
+    },
+    "full-waterfront": {
+      "width": 1672,
+      "height": 941,
+      "src": "/media/v42/full-waterfront-1280.webp",
+      "variants": [
+        {
+          "src": "/media/v42/full-waterfront-640.webp",
+          "width": 640,
+          "height": 360,
+          "bytes": 98304,
+          "sha256": "4b00d13817b79abd040f625aed2d106b60ad8223e3a371ebacd250dc6785eff3",
+          "rgbPsnrSameSize": 30.394
+        },
+        {
+          "src": "/media/v42/full-waterfront-1280.webp",
+          "width": 1280,
+          "height": 720,
+          "bytes": 337172,
+          "sha256": "d83c454d0c59345341a1eeb20c5c1e77ac904fd97eaa254d42139ca0b6ca407a",
+          "rgbPsnrSameSize": 32.514
+        },
+        {
+          "src": "/media/v42/full-waterfront-1672.webp",
+          "width": 1672,
+          "height": 941,
+          "bytes": 502676,
+          "sha256": "97f3b723f09c7f5ab273fabd05b0f859b7f9f2ea201adc5c4d20d19640e2fffa",
+          "rgbPsnrSameSize": 33.84
+        }
+      ],
+      "preview": {
+        "src": "/media/v42/full-waterfront-160.webp",
+        "width": 160,
+        "height": 90,
+        "bytes": 3010,
+        "sha256": "5a08bf2effca80092ab38efd11ef750ab81ddf322801c32e3448be3fa090a3a9",
+        "rgbPsnrSameSize": 25.79
+      }
+    },
+    "community-v3": {
+      "width": 1672,
+      "height": 941,
+      "src": "/media/v42/community-v3-1280.webp",
+      "variants": [
+        {
+          "src": "/media/v42/community-v3-640.webp",
+          "width": 640,
+          "height": 360,
+          "bytes": 76386,
+          "sha256": "bc55de8a16ac99c61454a9d48550737ed2b3d7ec78057b6203a6d484fa865f68",
+          "rgbPsnrSameSize": 33.856
+        },
+        {
+          "src": "/media/v42/community-v3-1280.webp",
+          "width": 1280,
+          "height": 720,
+          "bytes": 241334,
+          "sha256": "39fdc160af504ddd4384b238a044466938171738cd33f449b63aa43c8c9b038b",
+          "rgbPsnrSameSize": 35.882
+        },
+        {
+          "src": "/media/v42/community-v3-1672.webp",
+          "width": 1672,
+          "height": 941,
+          "bytes": 354526,
+          "sha256": "e5b52fb1f6f18c1422cde8103c6d26688ca407dca5b8a049b068734b1ae24f3c",
+          "rgbPsnrSameSize": 36.848
+        }
+      ],
+      "preview": {
+        "src": "/media/v42/community-v3-160.webp",
+        "width": 160,
+        "height": 90,
+        "bytes": 3290,
+        "sha256": "215f4821d9d25d5c2cb5fd550131b701af9183fe50ae191e79de18e994562933",
+        "rgbPsnrSameSize": 27.569
+      }
+    },
+    "development-v3": {
+      "width": 1672,
+      "height": 941,
+      "src": "/media/v42/development-v3-1280.webp",
+      "variants": [
+        {
+          "src": "/media/v42/development-v3-640.webp",
+          "width": 640,
+          "height": 360,
+          "bytes": 73040,
+          "sha256": "ef71ffc5c0f7577bca0faed4470fe0904f727ed214356e883cbdf292807ffecc",
+          "rgbPsnrSameSize": 33.35
+        },
+        {
+          "src": "/media/v42/development-v3-1280.webp",
+          "width": 1280,
+          "height": 720,
+          "bytes": 237170,
+          "sha256": "47965bf95c9b9a49835f6eeb0e49eca7f824b03151d42ba1e3d007b2c9923307",
+          "rgbPsnrSameSize": 35.099
+        },
+        {
+          "src": "/media/v42/development-v3-1672.webp",
+          "width": 1672,
+          "height": 941,
+          "bytes": 353434,
+          "sha256": "9566fe2e1d9f07027bb6977425acdfa0e844c736160718c504842bdee72fe98d",
+          "rgbPsnrSameSize": 36.318
+        }
+      ],
+      "preview": {
+        "src": "/media/v42/development-v3-160.webp",
+        "width": 160,
+        "height": 90,
+        "bytes": 2934,
+        "sha256": "9ec87560e393f501eb98b8b4050738831bdabfd63c6caa8e47234548189a63b8",
+        "rgbPsnrSameSize": 27.665
+      }
+    },
+    "house/exterior-aerial": {
+      "width": 1672,
+      "height": 941,
+      "src": "/media/v42/house/exterior-aerial-1280.webp",
+      "variants": [
+        {
+          "src": "/media/v42/house/exterior-aerial-640.webp",
+          "width": 640,
+          "height": 360,
+          "bytes": 109214,
+          "sha256": "85fbadda52871018f4143b68ef5a9163b5bd8101df22b654fb2535720ed0ccb2",
+          "rgbPsnrSameSize": 31.197
+        },
+        {
+          "src": "/media/v42/house/exterior-aerial-1280.webp",
+          "width": 1280,
+          "height": 720,
+          "bytes": 391404,
+          "sha256": "2b5e68a915551774ad1c5c642240cebe64844179d77a4f3b3b1da6d4d6933756",
+          "rgbPsnrSameSize": 32.729
+        },
+        {
+          "src": "/media/v42/house/exterior-aerial-1672.webp",
+          "width": 1672,
+          "height": 941,
+          "bytes": 603250,
+          "sha256": "2bb0ecd8259aa18821be8bb3934b72b936470129379cc0f6b653f667f2bfc784",
+          "rgbPsnrSameSize": 33.706
+        }
+      ],
+      "preview": null
+    },
+    "house/exterior-garden-dusk": {
+      "width": 1672,
+      "height": 941,
+      "src": "/media/v42/house/exterior-garden-dusk-1280.webp",
+      "variants": [
+        {
+          "src": "/media/v42/house/exterior-garden-dusk-640.webp",
+          "width": 640,
+          "height": 360,
+          "bytes": 76894,
+          "sha256": "26610fd21a4020c486f9f559c37cf1c48a01222086c9db47303f20c22713657d",
+          "rgbPsnrSameSize": 31.727
+        },
+        {
+          "src": "/media/v42/house/exterior-garden-dusk-1280.webp",
+          "width": 1280,
+          "height": 720,
+          "bytes": 250626,
+          "sha256": "4083fa7c2c0ac5422af6e708e5dc5740345e8fe2acc674522c9aa692e0a30076",
+          "rgbPsnrSameSize": 33.781
+        },
+        {
+          "src": "/media/v42/house/exterior-garden-dusk-1672.webp",
+          "width": 1672,
+          "height": 941,
+          "bytes": 373610,
+          "sha256": "523f8f191dfe681b9dfaed09107e6893ec28818a4e801170336f0da35ee8b710",
+          "rgbPsnrSameSize": 35.114
+        }
+      ],
+      "preview": null
+    },
+    "house/exterior-seaward": {
+      "width": 1672,
+      "height": 941,
+      "src": "/media/v42/house/exterior-seaward-1280.webp",
+      "variants": [
+        {
+          "src": "/media/v42/house/exterior-seaward-640.webp",
+          "width": 640,
+          "height": 360,
+          "bytes": 81868,
+          "sha256": "b33ada71e1c3aab19af42c864d7b1134bf4913e9e566c751f719f5b585293b66",
+          "rgbPsnrSameSize": 32.825
+        },
+        {
+          "src": "/media/v42/house/exterior-seaward-1280.webp",
+          "width": 1280,
+          "height": 720,
+          "bytes": 268726,
+          "sha256": "1df6ccea9111d62fcae8004bdd11e2a485c09e70b21a07df362380931ba24dfe",
+          "rgbPsnrSameSize": 34.723
+        },
+        {
+          "src": "/media/v42/house/exterior-seaward-1672.webp",
+          "width": 1672,
+          "height": 941,
+          "bytes": 400524,
+          "sha256": "3cb741c21741eaa2410ccfd47bd8f56ad48f67e869849acb0be46551bc518967",
+          "rgbPsnrSameSize": 35.728
+        }
+      ],
+      "preview": {
+        "src": "/media/v42/house/exterior-seaward-160.webp",
+        "width": 160,
+        "height": 90,
+        "bytes": 3204,
+        "sha256": "cc4ad5511c10436ac007a5d96874dc42ada490ba15699d9f0a5c5bd73e5a6210",
+        "rgbPsnrSameSize": 27.476
+      }
+    },
+    "house/interior-living": {
+      "width": 1672,
+      "height": 941,
+      "src": "/media/v42/house/interior-living-1280.webp",
+      "variants": [
+        {
+          "src": "/media/v42/house/interior-living-640.webp",
+          "width": 640,
+          "height": 360,
+          "bytes": 55720,
+          "sha256": "ca341f6c7968d0b15cd8c28b534087494f313189d0f182167c1432d05a085b42",
+          "rgbPsnrSameSize": 35.407
+        },
+        {
+          "src": "/media/v42/house/interior-living-1280.webp",
+          "width": 1280,
+          "height": 720,
+          "bytes": 186232,
+          "sha256": "36f129120b8e5f7f79cd9ea1a80427da5375ca839c7b3251caebae82564c79ea",
+          "rgbPsnrSameSize": 37.109
+        },
+        {
+          "src": "/media/v42/house/interior-living-1672.webp",
+          "width": 1672,
+          "height": 941,
+          "bytes": 281886,
+          "sha256": "4e374d5893a796104f5948883aaf020560c0a441bb51ab72b5334765430acd72",
+          "rgbPsnrSameSize": 37.829
+        }
+      ],
+      "preview": {
+        "src": "/media/v42/house/interior-living-160.webp",
+        "width": 160,
+        "height": 90,
+        "bytes": 2306,
+        "sha256": "470cdc9ff8855365453bc525ecb95debf15b15891260b35be8512a75726973c0",
+        "rgbPsnrSameSize": 28.792
+      }
+    },
+    "house/interior-master-bath": {
+      "width": 1672,
+      "height": 941,
+      "src": "/media/v42/house/interior-master-bath-1280.webp",
+      "variants": [
+        {
+          "src": "/media/v42/house/interior-master-bath-640.webp",
+          "width": 640,
+          "height": 360,
+          "bytes": 53416,
+          "sha256": "706669e59f813c47f7ae59bd101d8182006a62c5312722c2e8b5ac341f4c1b0c",
+          "rgbPsnrSameSize": 34.125
+        },
+        {
+          "src": "/media/v42/house/interior-master-bath-1280.webp",
+          "width": 1280,
+          "height": 720,
+          "bytes": 176558,
+          "sha256": "aec272d4e293374c0a2aa0ffdbd5f36b38c50b886909cfd2fc8a6c2dfd4163cb",
+          "rgbPsnrSameSize": 36.237
+        },
+        {
+          "src": "/media/v42/house/interior-master-bath-1672.webp",
+          "width": 1672,
+          "height": 941,
+          "bytes": 265138,
+          "sha256": "c258030dd6c3d221ae70bafa44ef1a8f8b2c6c10c24a1ba176433e53101a8ed7",
+          "rgbPsnrSameSize": 37.226
+        }
+      ],
+      "preview": null
+    },
+    "house/interior-master": {
+      "width": 1672,
+      "height": 941,
+      "src": "/media/v42/house/interior-master-1280.webp",
+      "variants": [
+        {
+          "src": "/media/v42/house/interior-master-640.webp",
+          "width": 640,
+          "height": 360,
+          "bytes": 50542,
+          "sha256": "b31b2c06749dfe41372b35b1f26910a98bf82dedd2e513ef942994429a80ea13",
+          "rgbPsnrSameSize": 36.074
+        },
+        {
+          "src": "/media/v42/house/interior-master-1280.webp",
+          "width": 1280,
+          "height": 720,
+          "bytes": 169314,
+          "sha256": "6f78380e2dbce2b14177eae507b6d6a695205b6a0db824c7a45f9c7758cb934b",
+          "rgbPsnrSameSize": 37.618
+        },
+        {
+          "src": "/media/v42/house/interior-master-1672.webp",
+          "width": 1672,
+          "height": 941,
+          "bytes": 251860,
+          "sha256": "2a287971d8d7317e20aab096b7c1cc5f263cf9f94cf02db2237ae408c6203722",
+          "rgbPsnrSameSize": 38.246
+        }
+      ],
+      "preview": null
+    },
+    "house/interior-shower": {
+      "width": 1672,
+      "height": 941,
+      "src": "/media/v42/house/interior-shower-1280.webp",
+      "variants": [
+        {
+          "src": "/media/v42/house/interior-shower-640.webp",
+          "width": 640,
+          "height": 360,
+          "bytes": 43176,
+          "sha256": "a48ebac8dad9667c25f228d90fd933377ab9037d0affd49b3d772642c0f5c299",
+          "rgbPsnrSameSize": 36.145
+        },
+        {
+          "src": "/media/v42/house/interior-shower-1280.webp",
+          "width": 1280,
+          "height": 720,
+          "bytes": 149900,
+          "sha256": "a422b590561a64d8ebeaa81095ab6cce090f7a698bf7c30a458ec124762d8818",
+          "rgbPsnrSameSize": 37.51
+        },
+        {
+          "src": "/media/v42/house/interior-shower-1672.webp",
+          "width": 1672,
+          "height": 941,
+          "bytes": 227556,
+          "sha256": "9544cd8b059dc5501d8b251827f8f5c9fa9428d9d847f556f69833aa35d123cf",
+          "rgbPsnrSameSize": 38.363
+        }
+      ],
+      "preview": null
+    },
+    "house/interior-twin": {
+      "width": 1672,
+      "height": 941,
+      "src": "/media/v42/house/interior-twin-1280.webp",
+      "variants": [
+        {
+          "src": "/media/v42/house/interior-twin-640.webp",
+          "width": 640,
+          "height": 360,
+          "bytes": 55036,
+          "sha256": "bf2a14c2fe2a2223641d99d109b979cd74bbb1afb77fecda0dcdab92f83a864e",
+          "rgbPsnrSameSize": 34.971
+        },
+        {
+          "src": "/media/v42/house/interior-twin-1280.webp",
+          "width": 1280,
+          "height": 720,
+          "bytes": 188598,
+          "sha256": "57e16506f5d317e33258e0a30afff83e7e43219846073fc29c7025a74a76cb9d",
+          "rgbPsnrSameSize": 36.714
+        },
+        {
+          "src": "/media/v42/house/interior-twin-1672.webp",
+          "width": 1672,
+          "height": 941,
+          "bytes": 283990,
+          "sha256": "4de98e115156fd1a1f7768e21f95fa75db8fc156fc42e61f6757df22804ed76e",
+          "rgbPsnrSameSize": 37.499
+        }
+      ],
+      "preview": null
+    },
+    "territory-day": {
+      "width": 1672,
+      "height": 941,
+      "src": "/media/v42/territory-day-1280.webp",
+      "variants": [
+        {
+          "src": "/media/v42/territory-day-640.webp",
+          "width": 640,
+          "height": 360,
+          "bytes": 85434,
+          "sha256": "c833d77b365432250c3879887ed3258e81e6165e3ebaf163f3bd37e0ccb5d01f",
+          "rgbPsnrSameSize": 33.269
+        },
+        {
+          "src": "/media/v42/territory-day-1280.webp",
+          "width": 1280,
+          "height": 720,
+          "bytes": 271136,
+          "sha256": "690037453435b553296d5f9feee83157794ac1870457a4092048124f05793e1e",
+          "rgbPsnrSameSize": 35.372
+        },
+        {
+          "src": "/media/v42/territory-day-1672.webp",
+          "width": 1672,
+          "height": 941,
+          "bytes": 386424,
+          "sha256": "accde51adbed66a0ffde83bd5c9fdaf560f006cab2c2e6810b7bdbd4702eff8a",
+          "rgbPsnrSameSize": 36.417
+        }
+      ],
+      "preview": null
+    },
+    "territory-night": {
+      "width": 1672,
+      "height": 941,
+      "src": "/media/v42/territory-night-1280.webp",
+      "variants": [
+        {
+          "src": "/media/v42/territory-night-640.webp",
+          "width": 640,
+          "height": 360,
+          "bytes": 70304,
+          "sha256": "c76914bf6c39800f6597ec1539bdc87692481a4cd2512f6d77b7045bb671491b",
+          "rgbPsnrSameSize": 33.278
+        },
+        {
+          "src": "/media/v42/territory-night-1280.webp",
+          "width": 1280,
+          "height": 720,
+          "bytes": 197212,
+          "sha256": "d21713d10247a48d0d6c1e035412d8218a2f834a873d21883ecd3888a2cb15a0",
+          "rgbPsnrSameSize": 35.808
+        },
+        {
+          "src": "/media/v42/territory-night-1672.webp",
+          "width": 1672,
+          "height": 941,
+          "bytes": 276404,
+          "sha256": "34968082075951bc5529bde750517595dda081208b80f92853254629a6c8439d",
+          "rgbPsnrSameSize": 37.292
+        }
+      ],
+      "preview": null
+    },
+    "wheel-cinematic-poster": {
+      "width": 1920,
+      "height": 1080,
+      "src": "/media/v42/wheel-cinematic-poster-1280.webp",
+      "variants": [
+        {
+          "src": "/media/v42/wheel-cinematic-poster-640.webp",
+          "width": 640,
+          "height": 360,
+          "bytes": 41112,
+          "sha256": "9588558d3465e942d3db45815b68efa7bffd2027b94dd31532c6de2967fd850d",
+          "rgbPsnrSameSize": 35.726
+        },
+        {
+          "src": "/media/v42/wheel-cinematic-poster-1280.webp",
+          "width": 1280,
+          "height": 720,
+          "bytes": 128878,
+          "sha256": "7cc4305e8b90427d80f461a9e3d835d31fed4b23a171229e314019e9a9d70f47",
+          "rgbPsnrSameSize": 37.075
+        },
+        {
+          "src": "/media/v42/wheel-cinematic-poster-1920.webp",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 231572,
+          "sha256": "83901e8f91cf8f6172e42af1e1986df191334eb6f0e92bd21bd962ec029a8c6a",
+          "rgbPsnrSameSize": 37.784
+        }
+      ],
+      "preview": null
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "coordinateSystem": "Normalized image x/y from top left; image6600x2140 uncropped; UI anchors estimated visually, not surveyed locations",
+  "programmeDate": "2026-09-23",
+  "source": "PPTX slide2, image1.jpeg",
+  "items": [
+    {
+      "id": 1,
+      "name": "Ferris Wheel",
+      "x": 0.54,
+      "y": 0.42,
+      "status": "operating-per-user"
+    },
+    {
+      "id": 2,
+      "name": "Chain Carousel",
+      "x": 0.27,
+      "y": 0.525,
+      "status": "proposed"
+    },
+    {
+      "id": 3,
+      "name": "Bumper Cars",
+      "x": 0.701,
+      "y": 0.605,
+      "status": "proposed"
+    },
+    {
+      "id": 4,
+      "name": "Viking Swing",
+      "x": 0.317,
+      "y": 0.705,
+      "status": "proposed"
+    },
+    {
+      "id": 5,
+      "name": "Samba Tower",
+      "x": 0.847,
+      "y": 0.255,
+      "status": "proposed"
+    },
+    {
+      "id": 6,
+      "name": "Bumper Boats",
+      "x": 0.225,
+      "y": 0.75,
+      "status": "proposed"
+    },
+    {
+      "id": 7,
+      "name": "Jet Star Fighter",
+      "x": 0.71,
+      "y": 0.36,
+      "status": "proposed"
+    },
+    {
+      "id": 8,
+      "name": "Children’s Maze",
+      "x": 0.773,
+      "y": 0.565,
+      "status": "proposed"
+    },
+    {
+      "id": 9,
+      "name": "Arcades",
+      "x": 0.465,
+      "y": 0.445,
+      "status": "proposed"
+    },
+    {
+      "id": 10,
+      "name": "Food Points",
+      "x": 0.921,
+      "y": 0.203,
+      "status": "proposed",
+      "additionalAnchors": [
+        {
+          "x": 0.924,
+          "y": 0.365
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Inflatable Trampolines",
+      "x": 0.099,
+      "y": 0.856,
+      "status": "proposed"
+    },
+    {
+      "id": 12,
+      "name": "Family Coaster",
+      "x": 0.892,
+      "y": 0.495,
+      "status": "proposed"
+    },
+    {
+      "id": 13,
+      "name": "Kids Workshops",
+      "x": 0.117,
+      "y": 0.62,
+      "status": "proposed"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "version": "4.2",
+  "date": "2026-09-29T09:53:47.742983+00:00",
+  "primaryCodec": "AV1 Main 8-bit in WebM",
+  "fps": 30,
+  "note": "Encoded from retained native 1080 PNG source and accepted film timeline. AV1 capability-gated; existing H264 matching resolution remains fallback.",
+  "films": {
+    "wheel": {
+      "duration": 13.0,
+      "frames": 390,
+      "variants": {
+        "540": {
+          "av1": {
+            "width": 960,
+            "height": 540,
+            "fps": 30,
+            "duration": 13.0,
+            "frames": 390,
+            "path": "/media/v42/wheel-cinematic-540.webm",
+            "mimeType": "video/webm; codecs=\"av01.0.04M.08\"",
+            "bytes": 856955,
+            "sha256": "ccc5d3e60c09c17be872b2e5d038e7ea40f89f067535b79d21c00dd20bbab20b",
+            "bitrate": 527357,
+            "bytesThrough1_2Seconds": 99553,
+            "bitstreamCodecString": "av01.0.04M.08.0.110.01.13.02.0"
+          },
+          "h264": {
+            "width": 960,
+            "height": 540,
+            "fps": 30,
+            "duration": 13.0,
+            "frames": 390,
+            "path": "/media/v41/wheel-cinematic-540.mp4",
+            "mimeType": "video/mp4; codecs=\"avc1.64001f\"",
+            "bytes": 874694,
+            "sha256": "e8c989f570f665910f89a0a0799e47aa2081f7f610dabe73116e5a69182f8d8e",
+            "bitrate": 538273,
+            "bytesThrough1_2Seconds": 82390,
+            "bitstreamCodecString": "avc1.64001f"
+          }
+        },
+        "720": {
+          "av1": {
+            "width": 1280,
+            "height": 720,
+            "fps": 30,
+            "duration": 13.0,
+            "frames": 390,
+            "path": "/media/v42/wheel-cinematic-720.webm",
+            "mimeType": "video/webm; codecs=\"av01.0.05M.08\"",
+            "bytes": 1312382,
+            "sha256": "21df226c418abc6bda3c3c02419f9ad779cd8f1cec6dea9092adc73007fc8814",
+            "bitrate": 807620,
+            "bytesThrough1_2Seconds": 147070,
+            "bitstreamCodecString": "av01.0.05M.08.0.110.01.13.02.0"
+          },
+          "h264": {
+            "width": 1280,
+            "height": 720,
+            "fps": 30,
+            "duration": 13.0,
+            "frames": 390,
+            "path": "/media/v41/wheel-cinematic-720.mp4",
+            "mimeType": "video/mp4; codecs=\"avc1.64001f\"",
+            "bytes": 1367218,
+            "sha256": "c75702fd9cfdd8c9d6b3eb0b7492f469a2e44a451ab68b056c6e3b0e19edb76d",
+            "bitrate": 841365,
+            "bytesThrough1_2Seconds": 125549,
+            "bitstreamCodecString": "avc1.64001f"
+          }
+        },
+        "1080": {
+          "av1": {
+            "width": 1920,
+            "height": 1080,
+            "fps": 30,
+            "duration": 13.0,
+            "frames": 390,
+            "path": "/media/v42/wheel-cinematic-1080.webm",
+            "mimeType": "video/webm; codecs=\"av01.0.08M.08\"",
+            "bytes": 2299927,
+            "sha256": "759a4e395a49b86014149b808996c6e29acea15fb61ac467ed56211f731c3708",
+            "bitrate": 1415340,
+            "bytesThrough1_2Seconds": 238197,
+            "bitstreamCodecString": "av01.0.08M.08.0.110.01.13.02.0"
+          },
+          "h264": {
+            "width": 1920,
+            "height": 1080,
+            "fps": 30,
+            "duration": 13.0,
+            "frames": 390,
+            "path": "/media/v41/wheel-cinematic-1080.mp4",
+            "mimeType": "video/mp4; codecs=\"avc1.640032\"",
+            "bytes": 2527900,
+            "sha256": "3c54d46e60da4204322d7301bdefceb1181c374f20b1bd8a385bfefce904fbfe",
+            "bitrate": 1555631,
+            "bytesThrough1_2Seconds": 215779,
+            "bitstreamCodecString": "avc1.640032"
+          }
+        }
+      }
+    },
+    "masterplan": {
+      "duration": 10.0,
+      "frames": 300,
+      "variants": {
+        "540": {
+          "av1": {
+            "width": 960,
+            "height": 540,
+            "fps": 30,
+            "duration": 10.0,
+            "frames": 300,
+            "path": "/media/v42/masterplan-cinematic-540.webm",
+            "mimeType": "video/webm; codecs=\"av01.0.04M.08\"",
+            "bytes": 803987,
+            "sha256": "7e8c78891b70e5eddb7d41649718a1f4a244b6c8b3fffe1e91801e7f383642af",
+            "bitrate": 643190,
+            "bytesThrough1_2Seconds": 53380,
+            "bitstreamCodecString": "av01.0.04M.08.0.110.01.13.05.0"
+          },
+          "h264": {
+            "width": 960,
+            "height": 540,
+            "fps": 30,
+            "duration": 10.0,
+            "frames": 300,
+            "path": "/media/v41/masterplan-cinematic-540.mp4",
+            "mimeType": "video/mp4; codecs=\"avc1.64001f\"",
+            "bytes": 848515,
+            "sha256": "106e74565ee303a0aad898714b9fa84d9fcafecb3a0351cb2807ac6c8f03d40f",
+            "bitrate": 678812,
+            "bytesThrough1_2Seconds": 73231,
+            "bitstreamCodecString": "avc1.64001f"
+          }
+        },
+        "720": {
+          "av1": {
+            "width": 1280,
+            "height": 720,
+            "fps": 30,
+            "duration": 10.0,
+            "frames": 300,
+            "path": "/media/v42/masterplan-cinematic-720.webm",
+            "mimeType": "video/webm; codecs=\"av01.0.05M.08\"",
+            "bytes": 1500871,
+            "sha256": "46d11941d7b6f45b5935d0a84973c5a42e4bb1fcc0604467fa2687fa01ac865c",
+            "bitrate": 1200697,
+            "bytesThrough1_2Seconds": 113218,
+            "bitstreamCodecString": "av01.0.05M.08.0.110.01.13.05.0"
+          },
+          "h264": {
+            "width": 1280,
+            "height": 720,
+            "fps": 30,
+            "duration": 10.0,
+            "frames": 300,
+            "path": "/media/v41/masterplan-cinematic-720.mp4",
+            "mimeType": "video/mp4; codecs=\"avc1.64001f\"",
+            "bytes": 1512436,
+            "sha256": "cfae756fd1acc9c62c72278054ead3e7cca0aeac63d905bb7da4ec00692efb0a",
+            "bitrate": 1209949,
+            "bytesThrough1_2Seconds": 113810,
+            "bitstreamCodecString": "avc1.64001f"
+          }
+        },
+        "1080": {
+          "av1": {
+            "width": 1920,
+            "height": 1080,
+            "fps": 30,
+            "duration": 10.0,
+            "frames": 300,
+            "path": "/media/v42/masterplan-cinematic-1080.webm",
+            "mimeType": "video/webm; codecs=\"av01.0.08M.08\"",
+            "bytes": 2554830,
+            "sha256": "9143739e850625fdcb33679368f38b9e8b818b09764353e68e81d1cc5b37abec",
+            "bitrate": 2043864,
+            "bytesThrough1_2Seconds": 197471,
+            "bitstreamCodecString": "av01.0.08M.08.0.110.01.13.05.0"
+          },
+          "h264": {
+            "width": 1920,
+            "height": 1080,
+            "fps": 30,
+            "duration": 10.0,
+            "frames": 300,
+            "path": "/media/v41/masterplan-cinematic-1080.mp4",
+            "mimeType": "video/mp4; codecs=\"avc1.640032\"",
+            "bytes": 3065042,
+            "sha256": "c57341868d40c2a8ce448c56a5146f765c4f0e91b3dfe76023f17329865cf1d4",
+            "bitrate": 2452034,
+            "bytesThrough1_2Seconds": 252713,
+            "bitstreamCodecString": "avc1.640032"
+          }
+        }
+      }
+    }
+  }
+}

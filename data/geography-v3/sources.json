@@ -1,0 +1,23 @@
+{
+  "source": "https://api.openstreetmap.org/api/0.6/map?bbox=54.087,16.990,54.123,17.024",
+  "attribution": "\u00a9 OpenStreetMap contributors",
+  "license": "https://opendatacommons.org/licenses/odbl/1-0/",
+  "dateRetrieved": "2026-09-26",
+  "coordinateSystem": "Local equirectangular in meters at 17.0003048 N (orientation only)",
+  "sitePOI": {
+    "lat": 17.0003048,
+    "lon": 54.1051167,
+    "source": "User-supplied Google Maps POI; not survey"
+  },
+  "counts": {
+    "buildings": 957,
+    "roads": 1401,
+    "coastlines": 2
+  },
+  "notIncluded": [
+    "Measured building heights",
+    "Surveyed project boundary",
+    "Photographic satellite imagery"
+  ],
+  "svgSHA256": "25aebacc0bcaedf4f69f54b83657be485b6ad2ed3e03296361b91b7908f07c62"
+}
